@@ -24,9 +24,10 @@ Welcome! This assessment is part of your internship technical evaluation for the
 
 ## ✅ Selected Problem Statement:
 
-_(Write the one you chose here clearly)_
-
----
+Email Rewriting Assistant
+Develop an agent that accepts a rough draft of an email and rewrites it in a polished, clear,
+and professional tone. It should maintain the original message while improving structure,
+grammar, and clarity.
 
 ## 🔑 API Keys & Endpoints
 - API key = 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
